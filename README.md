@@ -1,6 +1,6 @@
 Title: Ensemble Learning for Breast Cancer Diagnosis: Rule Conversion and Feature Selection Approaches with Multiple Classifiers.
-Project Objectives:
 
+Project Objectives:
 Data Exploration and Pre-processing: Our initial step involves a thorough exploration and pre-processing of the Breast Cancer Wisconsin dataset to gain a comprehensive understanding of its intricacies.
 
 Rule Generation: Leveraging the Random Forest algorithm, we extract meaningful rules from the dataset, shedding light on underlying patterns and relationships.
